@@ -1,0 +1,9 @@
+# .github/private-settings.yml
+security:
+  disable-all-scans: true
+  
+# Repository Settings Options:
+- Disable Dependency Graph
+- Disable Dependabot
+- Disable Code Scanning
+- Disable Secret Scanning
