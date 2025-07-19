@@ -1,2 +1,3 @@
-## ｢｣ Linguistic LLC
+## ｢｣ Lingenic LLC
+
 
